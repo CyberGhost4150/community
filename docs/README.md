@@ -6,7 +6,7 @@ description: >
 ---
 
 This is an open-source site for all Gradle community
-matters, including governance, artwork, events, and public/private infrastructure.
+matters, including governance, artwork, events, and public and private infrastructure.
 Anyone is welcome to participate and to extend the website and
 the underlying [gradle/community](https://github.com/gradle/community) repository,
 which is also used for tracking of community initiatives.
